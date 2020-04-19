@@ -8,3 +8,4 @@ It uses Array methods like
 - Sort
 - Map
 - Reduce
+- ForEach
